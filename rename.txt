@@ -4,3 +4,6 @@ riga3
 riga4
 riga5
 riga6
+riga7
+riga8
+riga9
